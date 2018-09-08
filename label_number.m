@@ -1,4 +1,4 @@
-
+function label_number
 for i = 1:15
     a=strcat('F:\Experiment\ext_data\ext_data_1\TK\tk_',num2str(i),'.tif');
     I=imread(a);
